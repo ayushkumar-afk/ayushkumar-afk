@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushkumar001" alt="ayushkumar001" /></a> </p>
 
-- 🔭 I’m currently working on **Nakabandi Backand**
+- 🔭 I’m currently working on **Seek or Say**
 
-- 🌱 I’m currently learning **Node.js,Docker,Kubernetes**
+- 🌱 I’m currently learning **React Native , Expo, Supabase**
 
 - 👯 I’m looking to collaborate on **Kestra.ai**
 
